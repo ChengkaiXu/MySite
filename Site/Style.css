@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Genshin';
+    src: url('https://github.com/61c1767e-69f8-4610-8870-0c3117462f80') format('truetype');
+}
+body{
+    background-color: #328ba8;
+    font-family: 'Genshin', sans-serif;
+}
+.headerList{
+    background-color: #7498a3;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    background-color: #07e086;
+    border: 1px;
+    border-radius: 10px;
+}
+li{
+    font-size: 20px;
+    border: thick double #328ba8;
+    backgroud-color: #328ba8;
+    border-radius: 5px;
+}
+h2{
+    color: #07e086;
+}
+ul {
+    list-style: none;
+}
